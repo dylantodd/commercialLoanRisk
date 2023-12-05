@@ -1,6 +1,6 @@
 # Commercial Loan Risk Assessment Tool
-Dylan Todd
-Created: 12.01.23
+Author: Dylan Todd  
+Created: 12.01.23  
 Updated: 12.04.23
 
 ## Project Overview
@@ -8,10 +8,13 @@ This Flask-based web application is designed to assess the credit risk of commer
 
 ## Directory Structure
 Commercial_Loan_Risk_Assessment/
+│
 ├── app.py                   # Main Flask application file
+│
 ├── templates/               # HTML templates for the web interface
 │   ├── index.html           # Input form for financial data
 │   └── result.html          # Displays the calculated risk score and report
+│
 └── README.md                # Project description and instructions
 
 ## Setup and Running
